@@ -1,0 +1,52 @@
+img {
+    display: block;
+    margin-left: 1100px;
+    width: 300px;
+    height: 200px;
+
+}
+
+.entete {
+    background-image: url("../img/saint-guilhem-le-desert-.jpg");
+    background-size: cover;
+    background-position: center 50%;
+    position: sticky;
+    top: 0;
+    margin: 0;
+    z-index: 1;
+}
+
+.liens {
+    background: rgb(192, 178, 178);
+    opacity: .8;
+
+}
+
+.logo {
+    position: relative;
+    right: 1080px;
+
+}
+
+.logo.w3-circle {
+    border-radius: 50px;
+}
+
+.paragraphe {
+
+    background-color: rgb(236, 231, 247);
+    width: 1500px;
+    margin: 10px auto;
+    padding: 10px 50px;
+
+}
+
+.boite {
+    margin: 100px 50px;
+
+
+}
+
+body {
+    background-color: rgb(250, 244, 244);
+}
